@@ -15,3 +15,6 @@ git push origin main
 # git pull 간단히
 git branch --set-upstream-to=origin/main main  
 
+# HelloController 
+hello.html 호출 
+![image](https://github.com/jeonck/SimplePost/assets/11763994/1fa8b856-c115-4885-aa33-50f5aa9adb17)
